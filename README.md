@@ -127,7 +127,7 @@ print_table(party_wear_result, "Party Wear")
 
 ## Output:
 
-![368181427-ab8f627e-9347-48f8-a78e-9b3e89851305](https://github.com/user-attachments/assets/5f180b4f-32b0-4ae6-a7fa-8703ab95f9cc)
+![image](https://github.com/user-attachments/assets/d4c0c460-9967-424b-9b79-47d111c4ee93)
 
 ## Visualization:
 ```
@@ -157,8 +157,10 @@ visualize_patterns_line(party_wear_result, 'Party Wear')
 
 
 ## Output:
+![image](https://github.com/user-attachments/assets/8802c3c9-5954-4f4a-9196-89be701f74b3)
+![image](https://github.com/user-attachments/assets/f5be3a0b-0081-49ca-824a-4ed432275ddd)
 
-![image](https://github.com/user-attachments/assets/d4c0c460-9967-424b-9b79-47d111c4ee93)
+
 
 
 ## Result:
